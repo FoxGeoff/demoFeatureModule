@@ -12,7 +12,7 @@ import { CustomerDashboardModule } from './customer-dashboard/customer-dashboard
   imports: [
     BrowserModule,
     CustomerDashboardModule,
-    //After feature module
+    //After all feature module
     AppRoutingModule,
   ],
   providers: [],
